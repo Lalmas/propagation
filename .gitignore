@@ -1,0 +1,6 @@
+# All .class files
+*.class
+
+# All vim and vim generated class
+
+*~
